@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+httpx
+aiohttp
+python-telegram-bot
+pydantic
+python-dotenv
+pandas
+numpy
+plotly
+sqlalchemy
+aiosqlite
+apscheduler
+jinja2
+reportlab
